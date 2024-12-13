@@ -1,0 +1,1 @@
+This repository contains a simple R script demonstrating a common error in data frame subsetting using character vector indexing.  The `bug.R` file shows the incorrect syntax.  The solution, provided in `bugSolution.R`, demonstrates the correct approach.
